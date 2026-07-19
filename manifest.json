@@ -1,7 +1,67 @@
 {
   "overture_release": "2026-06-17.0",
-  "generated_at": 1784432921,
+  "generated_at": 1784439626,
   "packs": [
+    {
+      "id": "ca-bc",
+      "name": "British Columbia",
+      "area": "Canada",
+      "release": "2026-06-17.0",
+      "poi_count": 26110,
+      "size_bytes": 3293184,
+      "sha256": "2e10f9e67cb9e084e3e4a71ae4836c8ba7bcfa3416f77a10af34fbdabc74dec3",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-ca-bc.db"
+    },
+    {
+      "id": "ca-on",
+      "name": "Ontario",
+      "area": "Canada",
+      "release": "2026-06-17.0",
+      "poi_count": 44022,
+      "size_bytes": 5615616,
+      "sha256": "ba30f998478f2410c836edb57403f7b87cb7670b1a03ea39b43abae957157820",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-ca-on.db"
+    },
+    {
+      "id": "cn",
+      "name": "China",
+      "area": "Asia",
+      "release": "2026-06-17.0",
+      "poi_count": 36456,
+      "size_bytes": 4624384,
+      "sha256": "bc572159f276cdc49ccfb70b6dfccc7cd17ffd9aa96b0b8a0078bb6d39a13b82",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-cn.db"
+    },
+    {
+      "id": "es",
+      "name": "Spain",
+      "area": "Europe",
+      "release": "2026-06-17.0",
+      "poi_count": 111645,
+      "size_bytes": 14704640,
+      "sha256": "2b6e27271d1ebc21d3572f250aa3f5dfa3ed2ce9686d3919cfb6798b13092247",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-es.db"
+    },
+    {
+      "id": "fr",
+      "name": "France",
+      "area": "Europe",
+      "release": "2026-06-17.0",
+      "poi_count": 179946,
+      "size_bytes": 23572480,
+      "sha256": "0fa251e5bc241969d5a8eb5d77b68f49845ccadbbbcd8a55708b0aa105f2d8ad",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-fr.db"
+    },
+    {
+      "id": "gb",
+      "name": "United Kingdom",
+      "area": "Europe",
+      "release": "2026-06-17.0",
+      "poi_count": 221772,
+      "size_bytes": 27422720,
+      "sha256": "a913fdef1895fd591550e61891d760bdd05a7cb6f9abc3970c1f56824756ec3d",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-gb.db"
+    },
     {
       "id": "hk",
       "name": "Hong Kong",
@@ -13,6 +73,36 @@
       "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-hk.db"
     },
     {
+      "id": "id",
+      "name": "Indonesia",
+      "area": "Asia",
+      "release": "2026-06-17.0",
+      "poi_count": 194998,
+      "size_bytes": 25677824,
+      "sha256": "abe07087253816cc2b2d00278cdbc24d5fb2794e3f08a086132bba607b5556b2",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-id.db"
+    },
+    {
+      "id": "it",
+      "name": "Italy",
+      "area": "Europe",
+      "release": "2026-06-17.0",
+      "poi_count": 187833,
+      "size_bytes": 24412160,
+      "sha256": "ad1b951f4c0870305c5347ed9c38adb7b072bd2ea549ac9556baff000cf9b1ee",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-it.db"
+    },
+    {
+      "id": "jp",
+      "name": "Japan",
+      "area": "Asia",
+      "release": "2026-06-17.0",
+      "poi_count": 268493,
+      "size_bytes": 38191104,
+      "sha256": "207713eaa0902db63f7169ee260593a73488036a76493f6f921d7e519d3d74ef",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-jp.db"
+    },
+    {
       "id": "mt",
       "name": "Malta",
       "area": "Europe",
@@ -21,6 +111,16 @@
       "size_bytes": 266240,
       "sha256": "a3003c0373eca50af102c8b1ebb309defe5b4ac17b149e8408011d144f0147af",
       "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-mt.db"
+    },
+    {
+      "id": "nl",
+      "name": "Netherlands",
+      "area": "Europe",
+      "release": "2026-06-17.0",
+      "poi_count": 50247,
+      "size_bytes": 6193152,
+      "sha256": "6684cc9a365cd68e69e48db8c9ccabfadf938519c58a26139e2d4e1fe71fbe3a",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-nl.db"
     },
     {
       "id": "us-ak",
@@ -53,6 +153,16 @@
       "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-dc.db"
     },
     {
+      "id": "us-de",
+      "name": "Delaware",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 6044,
+      "size_bytes": 794624,
+      "sha256": "9e45b02686fa782c899f94b94c81063f81b94df6432ef7226075a550ef4a4fa2",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-de.db"
+    },
+    {
       "id": "us-hi",
       "name": "Hawaii",
       "area": "United States",
@@ -63,6 +173,16 @@
       "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-hi.db"
     },
     {
+      "id": "us-ma",
+      "name": "Massachusetts",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 42610,
+      "size_bytes": 5447680,
+      "sha256": "ebc5a4297fb9018f53630bf48b86ea60bab065dd02e33ddfa69c6a7054a78fa3",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-ma.db"
+    },
+    {
       "id": "us-nv",
       "name": "Nevada",
       "area": "United States",
@@ -71,6 +191,26 @@
       "size_bytes": 2256896,
       "sha256": "e10af2a52904750753afb3da8bac9743cbb8af541608fa1b84c1dd2b1b52cd38",
       "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-nv.db"
+    },
+    {
+      "id": "us-ny",
+      "name": "New York",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 116879,
+      "size_bytes": 15097856,
+      "sha256": "12f35f85018a4f3d1d48220e62d9fe4cf3ec4370c6d0cf7e8197d68cf7c5327c",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-ny.db"
+    },
+    {
+      "id": "us-tx",
+      "name": "Texas",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 124365,
+      "size_bytes": 16347136,
+      "sha256": "9091151d1213187377a32a0fe4c65ed4d199ab0c024ea233907ef82f662953a6",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-tx.db"
     },
     {
       "id": "us-wa",
