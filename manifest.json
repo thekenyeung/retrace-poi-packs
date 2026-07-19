@@ -1,0 +1,46 @@
+{
+  "overture_release": "2026-06-17.0",
+  "generated_at": 1784427999,
+  "packs": [
+    {
+      "id": "hk",
+      "name": "Hong Kong",
+      "area": "Asia",
+      "release": "2026-06-17.0",
+      "poi_count": 11905,
+      "size_bytes": 1380352,
+      "sha256": "8dddd6c5eb99f8a4093ba7dafad718920b868e30d8e8b1e8225b50161491f901",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-hk.db"
+    },
+    {
+      "id": "mt",
+      "name": "Malta",
+      "area": "Europe",
+      "release": "2026-06-17.0",
+      "poi_count": 2023,
+      "size_bytes": 233472,
+      "sha256": "51a2bc68945cbf67d9699a4274ef3c52469272006e05299c3ec9646bec70444c",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-mt.db"
+    },
+    {
+      "id": "us-dc",
+      "name": "Washington, D.C.",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 7437,
+      "size_bytes": 892928,
+      "sha256": "532ff9155f023ee5ba734591ad393b4260c1b7dddadaeffa7be4592bc19739b9",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-dc.db"
+    },
+    {
+      "id": "us-hi",
+      "name": "Hawaii",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 8018,
+      "size_bytes": 876544,
+      "sha256": "2b6bad3a511a8dd81a0e79c1d3cb87f978252deb15ad383c678004de6e50a09e",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-hi.db"
+    }
+  ]
+}
