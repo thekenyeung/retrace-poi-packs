@@ -1,6 +1,6 @@
 {
   "overture_release": "2026-06-17.0",
-  "generated_at": 1784427999,
+  "generated_at": 1784432003,
   "packs": [
     {
       "id": "hk",
@@ -23,6 +23,26 @@
       "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-mt.db"
     },
     {
+      "id": "us-ak",
+      "name": "Alaska",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 4894,
+      "size_bytes": 548864,
+      "sha256": "ec2635810f16b45ae9aabb1fdb44f10b33a7b0fc48fb28b62e2285ffb85234f8",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-ak.db"
+    },
+    {
+      "id": "us-ca",
+      "name": "California",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 123581,
+      "size_bytes": 14016512,
+      "sha256": "00146550c6b6eed15c3cf9227e7b9d6e585fb25147844d35b2bc4ea308696496",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-ca.db"
+    },
+    {
       "id": "us-dc",
       "name": "Washington, D.C.",
       "area": "United States",
@@ -41,6 +61,26 @@
       "size_bytes": 876544,
       "sha256": "2b6bad3a511a8dd81a0e79c1d3cb87f978252deb15ad383c678004de6e50a09e",
       "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-hi.db"
+    },
+    {
+      "id": "us-nv",
+      "name": "Nevada",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 17441,
+      "size_bytes": 1966080,
+      "sha256": "374ff6af531a6a4f2e1c06219eb021b1f2ac87d0097eb333459642117fe384d0",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-nv.db"
+    },
+    {
+      "id": "us-wa",
+      "name": "Washington",
+      "area": "United States",
+      "release": "2026-06-17.0",
+      "poi_count": 33506,
+      "size_bytes": 3751936,
+      "sha256": "d5241f1f12ff0dcf9f092aef92fb27a75d1e503128661e13240d9ac6a2af4567",
+      "url": "https://raw.githubusercontent.com/thekenyeung/retrace-poi-packs/main/poi-us-wa.db"
     }
   ]
 }
